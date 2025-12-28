@@ -26,11 +26,4 @@ Translate a file (one sentence per line):
 ```bash
 python inference.py --input input_zh.txt --output pred_en.txt
 ```
-
-Switch to an RNN checkpoint:
-
-```bash
-python inference.py --arch rnn --checkpoint checkpoints/rnn_ablation/align_dot/best_model.pt --text "我和你"
-```
-
 ---
