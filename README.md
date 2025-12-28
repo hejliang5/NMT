@@ -8,7 +8,9 @@ Pretrained Language Model Weight: https://huggingface.co/google-t5/t5-base/tree/
 
 Download and place in the main directory, like /t5-base
 
-Download checkpoints and place in the main directory, like /checkpoints/transformer_ablation/base/best_model.pt
+Download checkpoints and place in the main directory, like /checkpoints/best_model.pt
+
+Checkpoints file is placed in college's public server.
 
 ## One-Click Inference
 
