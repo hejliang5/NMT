@@ -5,7 +5,9 @@ This is a project for NLP &amp;&amp; LLM course.
 ## Preparation
 
 Pretrained Language Model Weight: https://huggingface.co/google-t5/t5-base/tree/main
-Download and place in the main directory, like /t5-base,
+
+Download and place in the main directory, like /t5-base
+
 Download checkpoints and place in the main directory, like /checkpoints/transformer_ablation/base/best_model.pt
 
 ## One-Click Inference
