@@ -116,7 +116,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument(
         "--checkpoint",
         type=Path,
-        default=Path("checkpoints/transformer_ablation/base/best_model.pt"),
+        default=Path("checkpoints/best_model.pt"),
         help="Path to model checkpoint.",
     )
     p.add_argument("--src_vocab", type=Path, default=None, help="Path to source vocab json")
